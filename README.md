@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi there, I'm [Your Name]! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=MyNameIsJeff-305=green)
+![Profile Views](https://komarev.com/ghpvc/?username=MyNameIsJeff-305&color=green)
 
 ## 🚀 About Me
 I'm a passionate [Your Profession/Interest] from [Your Location]. I love creating innovative solutions and learning new technologies. In my free time, I enjoy [Your Hobbies].
