@@ -16,6 +16,7 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C#] (https://img.shields.io/badge/C#-512BD4.svg?style=for-the-badge&logo=C#&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
