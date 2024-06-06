@@ -30,7 +30,8 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
 
-### [Project 1]
+## 🌟 Featured Projects
+### MyBnB
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=MyBnB&show_owner=true)
 
 ## 📫 Let's Connect:
@@ -44,7 +45,6 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 - [Achievement 3]
 
 <!--
-## 🌟 Featured Projects
 
 ### [Project 2]
 ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-2&show_owner=true)
