@@ -31,7 +31,7 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
 
 ### [Project 1]
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-github-username&repo=project-1&show_owner=true)
+![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=MyBnB&show_owner=true)
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mm4ever/)](https://www.linkedin.com/in/mm4ever/)
