@@ -11,7 +11,7 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 - 👯 I’m looking to collaborate on any exciting project
 - 💬 Ask me about Programming, Javascript, C#
 - 📫 How to reach me: michelgarcia950528@icloud.com
-- ⚡ Fun fact: I came to USA because I won a Green Card Lottery!
+- ⚡ Fun fact: I came to USA because I won a Green Card Lottery! 
 
 ## 🛠️ Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
