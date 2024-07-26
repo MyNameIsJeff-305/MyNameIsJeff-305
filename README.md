@@ -56,11 +56,11 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
 
 ## 🌟 Featured Projects
-### MyBnB
+### MyBnB: <a href="https://github.com/MyNameIsJeff-305/MyBnB"> See more...</a>
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=MyBnB&show_owner=true)
-### 2048 On Steroids
+### 2048 On Steroids: <a href="https://github.com/MyNameIsJeff-305/2048OnSteroids"> See more...</a>
 ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=2048OnSteroids&show_owner=true)
-### SMART Ticketing
+### SMART Ticketing: <a href="https://github.com/MyNameIsJeff-305/Smart-Ticketing"> See more...</a>
 ![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=Smart-Ticketing&show_owner=true)
 
 ## 📫 Let's Connect:
