@@ -54,6 +54,7 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsJeff-305&" alt="MyNameIsJeff-305" /></p
 
 ## 🌟 Featured Projects
 ### MyBnB: <a href="https://github.com/MyNameIsJeff-305/MyBnB"> See more...</a>
