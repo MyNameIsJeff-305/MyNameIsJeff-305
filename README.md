@@ -50,7 +50,7 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 </p>
 
 ## 🗒 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsJeff-305&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsJeff-305)
 
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
