@@ -51,7 +51,8 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 </p>
 
-
+## 🗒 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyNameIsJeff-305&layout=compact)
 
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
