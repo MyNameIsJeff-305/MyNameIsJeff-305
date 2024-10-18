@@ -66,9 +66,9 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 
 
 ## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mm4ever/)](https://www.linkedin.com/in/mm4ever/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white&link=https://x.com/mynameisjeff_cu)](https://x.com/mynameisjeff_cu)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mm4ever/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mynameisjeff_cu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michelgarcia950528@icloud.com)
 <!--
 ## 🏆 Achievements
 - [Achievement 1]
