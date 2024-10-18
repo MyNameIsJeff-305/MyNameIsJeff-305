@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=MyNameIsJeff-305&color=green)
 
 ## 🚀 About Me
-I'm a passionate Developer from Florida, USA. I love creating innovative solutions for business that wants to grow using technology and learning new ways to help them improve their products/services. In my free time, I enjoy Photography 📷 and Gaming 🕹️.
+I'm a passionate Developer from Florida, USA. I love creating innovative solutions for business that wants to grow using technology and learning new ways to help them improve their products/services. In my free time, I enjoy Photography 📷, Fishing 🎣, and Gaming 🕹️.
 
 - 🔭 I’m currently working at SMART Solutions (Project Manager / Media Division)
 - 🌱 I’m currently learning at App Academy
@@ -42,12 +42,13 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
 </p>
 
 ## 📕 I'm currently learning these technologies
 <p>
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 </p>
 
@@ -60,10 +61,9 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ## 🌟 Featured Projects
 ### MyBnB: <a href="https://github.com/MyNameIsJeff-305/MyBnB"> See more...</a>
 ![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=MyBnB&show_owner=true)
-### 2048 On Steroids: <a href="https://github.com/MyNameIsJeff-305/2048OnSteroids"> See more...</a>
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=2048OnSteroids&show_owner=true)
-### SMART Ticketing: <a href="https://github.com/MyNameIsJeff-305/Smart-Ticketing"> See more...</a>
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=Smart-Ticketing&show_owner=true)
+### ticketFlow: <a href="https://github.com/MyNameIsJeff-305/ticket-flow"> See more...</a>
+![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=ticket-flow&show_owner=true)
+
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mm4ever/)](https://www.linkedin.com/in/mm4ever/)
