@@ -1,5 +1,5 @@
 # Hi there, I'm Michel Garcia! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=4+Years+Of+Experience;App+Academy+Graduated;Full-Stack+Web+Developer;Mobile+Developer;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2768F7&width=435&lines=6+Years+Of+Experience;App+Academy+Graduated;Full-Stack+Web+Developer;Mobile+Developer;Software+Engineer)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MyNameIsJeff-305&color=green)
 
