@@ -7,7 +7,7 @@
 I'm a passionate Developer from Florida, USA. I love creating innovative solutions for business that wants to grow using technology and learning new ways to help them improve their products/services. In my free time, I enjoy Photography 📷, Fishing 🎣, and Gaming 🕹️.
 
 - 🔭 I’m currently working at SMART Solutions (Project Manager / Media Division)
-- 🌱 I’m currently learning at App Academy
+- 🌱 I’m currently learning at Florida National University
 - 👯 I’m looking to collaborate on any exciting project
 - 💬 Ask me about Programming, Javascript, C#, Frontend, Backend, Sorting Algorythms...
 - 📫 How to reach me: michelgarcia950528@icloud.com
