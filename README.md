@@ -58,13 +58,6 @@ I'm a passionate Developer from Florida, USA. I love creating innovative solutio
 ## 📈 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MyNameIsJeff-305&show_icons=true&theme=transparent)
 
-## 🌟 Featured Projects
-### MyBnB: <a href="https://github.com/MyNameIsJeff-305/MyBnB"> See more...</a>
-![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=MyBnB&show_owner=true)
-### ticketFlow: <a href="https://github.com/MyNameIsJeff-305/ticket-flow"> See more...</a>
-![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=MyNameIsJeff-305&repo=ticket-flow&show_owner=true)
-
-
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mm4ever/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/mynameisjeff_cu)
